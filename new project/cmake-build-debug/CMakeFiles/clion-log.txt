@@ -1,16 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\maxpo\Desktop\ec1\ec1-TheMecz\new project"
--- Configuring done
-CMake Error at CMakeLists.txt:7 (add_executable):
-  Cannot find source file:
-
-    ejercicio4.cpp
-
-  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
-  .hpp .hxx .in .txx
-
-
-CMake Error at CMakeLists.txt:7 (add_executable):
-  No SOURCES given to target: new_project1
-
-
--- Build files have been written to: C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/new project/cmake-build-debug
+CMakeLists.txt not found in C:\Users\maxpo\Desktop\ec1\ec1-TheMecz\new project Select CMakeLists.txt file...
