@@ -1,0 +1,3 @@
+B:/Max/Documentos/UTEC - CS/Ciclo II/Programacion Orientada a Objetos I/POO I/github1/cmake-build-debug/CMakeFiles/github1.dir
+B:/Max/Documentos/UTEC - CS/Ciclo II/Programacion Orientada a Objetos I/POO I/github1/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/Max/Documentos/UTEC - CS/Ciclo II/Programacion Orientada a Objetos I/POO I/github1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

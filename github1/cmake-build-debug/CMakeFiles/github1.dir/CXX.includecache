@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+B:/Max/Documentos/UTEC - CS/Ciclo II/Programacion Orientada a Objetos I/POO I/github1/main.cpp
+iostream
+-
+
