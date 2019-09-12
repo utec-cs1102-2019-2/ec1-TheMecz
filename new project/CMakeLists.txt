@@ -4,3 +4,4 @@ project(new_project)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(new_project main.cpp)
+add_executable(new_project1 ejercicio3.cpp)

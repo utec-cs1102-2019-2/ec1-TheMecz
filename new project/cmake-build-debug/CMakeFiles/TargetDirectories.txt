@@ -1,3 +1,4 @@
 C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/new project/cmake-build-debug/CMakeFiles/new_project.dir
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/new project/cmake-build-debug/CMakeFiles/new_project1.dir
 C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/new project/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/new project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -122,6 +122,46 @@ new_project/fast:
 	$(MAKE) -f CMakeFiles\new_project.dir\build.make CMakeFiles/new_project.dir/build
 .PHONY : new_project/fast
 
+#=============================================================================
+# Target rules for targets named new_project1
+
+# Build rule for target.
+new_project1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 new_project1
+.PHONY : new_project1
+
+# fast build rule for target.
+new_project1/fast:
+	$(MAKE) -f CMakeFiles\new_project1.dir\build.make CMakeFiles/new_project1.dir/build
+.PHONY : new_project1/fast
+
+ejercicio3.obj: ejercicio3.cpp.obj
+
+.PHONY : ejercicio3.obj
+
+# target to build an object file
+ejercicio3.cpp.obj:
+	$(MAKE) -f CMakeFiles\new_project1.dir\build.make CMakeFiles/new_project1.dir/ejercicio3.cpp.obj
+.PHONY : ejercicio3.cpp.obj
+
+ejercicio3.i: ejercicio3.cpp.i
+
+.PHONY : ejercicio3.i
+
+# target to preprocess a source file
+ejercicio3.cpp.i:
+	$(MAKE) -f CMakeFiles\new_project1.dir\build.make CMakeFiles/new_project1.dir/ejercicio3.cpp.i
+.PHONY : ejercicio3.cpp.i
+
+ejercicio3.s: ejercicio3.cpp.s
+
+.PHONY : ejercicio3.s
+
+# target to generate assembly for a file
+ejercicio3.cpp.s:
+	$(MAKE) -f CMakeFiles\new_project1.dir\build.make CMakeFiles/new_project1.dir/ejercicio3.cpp.s
+.PHONY : ejercicio3.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -156,8 +196,12 @@ help:
 	@echo ... clean
 	@echo ... depend
 	@echo ... new_project
+	@echo ... new_project1
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... ejercicio3.obj
+	@echo ... ejercicio3.i
+	@echo ... ejercicio3.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
