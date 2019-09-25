@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session6a/problema3.cpp
+iostream
+-
+vector
+-
+string.h
+-
+time.h
+-
+
