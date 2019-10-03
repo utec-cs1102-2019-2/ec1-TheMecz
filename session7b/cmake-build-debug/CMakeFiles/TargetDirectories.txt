@@ -1,0 +1,5 @@
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session7b/cmake-build-debug/CMakeFiles/session7b.dir
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session7b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session7b/cmake-build-debug/CMakeFiles/session7b1.dir
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session7b/cmake-build-debug/CMakeFiles/session7b2.dir
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session7b/cmake-build-debug/CMakeFiles/edit_cache.dir
