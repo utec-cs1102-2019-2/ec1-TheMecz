@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session9a/cilindro.cpp
+cilindro.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session9a/cilindro.h
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session9a/cilindro.h
+cmath
+-
+
