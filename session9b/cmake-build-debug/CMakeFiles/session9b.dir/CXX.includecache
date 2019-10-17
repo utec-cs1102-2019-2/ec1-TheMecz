@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session9b/Alumnos.cpp
+Alumnos.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session9b/Alumnos.h
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session9b/Alumnos.h
+iostream
+-
+cmath
+-
+string.h
+-
+
