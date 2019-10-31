@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11a/Bloque.h
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11a/Tablero.h
+iostream
+-
+vector
+-
+Bloque.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11a/Bloque.h
+ctime
+-
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11a/main.cpp
+iostream
+-
+Tablero.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11a/Tablero.h
+
