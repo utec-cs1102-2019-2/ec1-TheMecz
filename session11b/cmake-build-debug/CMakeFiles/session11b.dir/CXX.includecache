@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11b/CAlimento.h
+Tipos.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11b/Tipos.h
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11b/CAnimal.h
+Tipos.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11b/Tipos.h
+CAlimento.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11b/CAlimento.h
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11b/CPerro.cpp
+CPerro.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11b/CPerro.h
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11b/CPerro.h
+Tipos.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11b/Tipos.h
+CAnimal.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11b/CAnimal.h
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session11b/Tipos.h
+iostream
+-
+iomanip
+-
+
