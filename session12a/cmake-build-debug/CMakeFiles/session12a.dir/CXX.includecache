@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Bicicleta.cpp
+Bicicleta.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Bicicleta.h
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Bicicleta.h
+Vehiculo.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Vehiculo.h
+ctime
+-
+iostream
+-
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Bote.cpp
+Bote.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Bote.h
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Bote.h
+Vehiculo.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Vehiculo.h
+iostream
+-
+ctime
+-
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Vehiculo.h
+
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/main.cpp
+iostream
+-
+Vehiculo.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Vehiculo.h
+Bicicleta.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Bicicleta.h
+vector
+-
+Bote.h
+C:/Users/maxpo/Desktop/ec1/ec1-TheMecz/session12a/Bote.h
+
